@@ -1,6 +1,5 @@
 [//]: # (REMBEMBER! Add links to things related to the bug using for example:)
-[//]: # (http://wowhead.com/)
-[//]: # (wotlk-twinhead.twinstar.cz)
+[//]: # (https://www.wowhead.com/wotlk)
 
 
 **Description:**
